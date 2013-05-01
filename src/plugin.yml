@@ -1,0 +1,12 @@
+name: ChatChannel
+main: com.james137137.ChatChannel.ChatChannel
+version: 0.01
+authors: [James Anderson]
+commands:
+  ChatChannel:
+    description: ChatChannel command
+    usage: /<command> [option]
+    aliases: [cc]
+  
+  
+     
